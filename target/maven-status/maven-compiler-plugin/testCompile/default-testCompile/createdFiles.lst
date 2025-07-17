@@ -1,0 +1,10 @@
+com\medimention\pageObject\Home_Page.class
+com\medimention\pageObject\Entry_Page.class
+com\medimention\testCases\TC_Registration_DDT.class
+com\medimention\utilities\DataProviders.class
+com\medimention\testCases\TC_Registration.class
+com\medimention\pageObject\Base_page.class
+com\medimention\utilities\ExcelUtility.class
+com\medimention\testCases\Base_Class.class
+com\medimention\pageObject\Create_Acc_Page.class
+com\medimention\pageObject\Account_Page.class
